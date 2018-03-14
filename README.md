@@ -1,0 +1,2 @@
+# Character_splicing
+将逐帧的文字切片拼接为一张完整的文字图像
